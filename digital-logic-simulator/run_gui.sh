@@ -35,3 +35,4 @@ echo "3. Install tkinter for Python 3.13: brew install python-tk@3.13"
 echo "4. Install Python with tkinter: brew install python-tk"
 exit 1
 
+

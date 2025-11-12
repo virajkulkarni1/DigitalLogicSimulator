@@ -24,3 +24,4 @@ def XOR(a, b):
     """Returns True if inputs are different, False if they are the same."""
     return a != b
 
+
